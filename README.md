@@ -14,7 +14,7 @@ Dec 18, 2025 (7:35 am CST)
 1. **Ecospirin AV** => 1 capsule after dinner
 2. **Prolomet XL 50** => 1 tablet after breakfast
 3. **Sacurise 100** => 1 after breakfast, 1 after dinner
-4. **DYtor 5** => 1 tab after breakfast
+4. **DYtor 5** => 0.5 tab after breakfast
 5. **Aldactone 25mg** => 1 tablet after lunch
 
 ### For Anxiety and Sleep

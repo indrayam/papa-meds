@@ -5,8 +5,8 @@
 Dec 18, 2025 (7:35 am CST)
 
 **Additional Notes (if any):**
-- March 15th, 2026: Ultrasound of the lower abdomen to check prostate size and bladder condition.
-- Check with Dr. Pathak in a few months about his pain recovery
+- March 31st, 2026: Ultrasound of the lower abdomen to check prostate size and bladder condition.
+- March 31st, 2026: Check with Dr. Pathak in a few months about his pain recovery
 
 ## Regular Meds
 

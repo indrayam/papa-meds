@@ -29,8 +29,9 @@ Dec 18, 2025 (7:35 am CST)
 
 ### For L4 Compression
 1. **Gemcal-DS** => 1 tablet after dinner
-2. *Calcigen D3* (60000 IU) => Once per week. In the afternoon with milk
-3. *Olmab Injection* => May 2026
+2. **Pucoxib 2mg** => 1 tablet after dinner if and when he feels pain (only occasionally)
+3. *Calcigen D3* (60000 IU) => Once per week. In the afternoon with milk
+4. *Olmab Injection* => May 2026
 
 ### Eye dryness
 1. *Lubrex DX* eye drops => 1 drops in each eye in the morning and evening
@@ -49,7 +50,6 @@ Do not include these in Papa's meds going forward.
 2. **Meganeuron-NT 50** => 1 tablet with or after light snack
 3. **Sompraz D** => Before breakfast. 1 tablet with small sip of water. Empty stomach (till after Nov 21st test results are back)
 4. **Bifilac HP** => 1 capsule with water after breakfast (till after Nov 21st test results are back)
-5. **Pucoxib 2mg** => 1 tablet after dinner if and when he feels pain (only occasionally)
 6. *Ultracet* => 1 tablet after breakfast, lunch or dinner if pain is severe. NOT to be given regularly.
 
 ### For Urinary Tract Infection (UTI)

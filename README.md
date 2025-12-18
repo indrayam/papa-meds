@@ -2,17 +2,20 @@
 
 **Date of Medication List Update:**
 
-Dec 8, 2025 (12:04 pm CST)
+Dec 18, 2025 (7:35 am CST)
 
 **Additional Notes (if any):**
-- March 15th, 2026: Ultrasound of the lower abdomen to check prostate size and bladder condition. 
+- March 15th, 2026: Ultrasound of the lower abdomen to check prostate size and bladder condition.
+- Check with Dr. Pathak in a few months about his pain recovery
 
 ## Regular Meds
 
 ### For his Heart & High Blood Pressure
 1. **Ecospirin AV** => 1 capsule after dinner
 2. **Prolomet XL 50** => 1 tablet after breakfast
-3. **Sacurise 100** => 0.5 after breakfast, 0.5 after dinner
+3. **Sacurise 100** => 1 after breakfast, 1 after dinner
+4. **DYtor 5** => 1 tab after breakfast
+5. **Aldactone 25mg** => 1 tablet after lunch
 
 ### For Anxiety and Sleep
 1. **Etizola 0.25mg** => 1 tablet at bedtime
@@ -40,8 +43,7 @@ Do not include these in Papa's meds going forward.
 ### For Heart & High Blood Pressure
 1. **Carniprime Tablet** => 1 tablet after breakfast
 2. **Pantoprazole 40mg** => 1 tablet after lunch
-3. **Aldactone 25mg** => 1 tablet after lunch
-4. **DYtor 5** => 1 tab after breakfast
+
 
 ### For L4 Collapse Pain
 1. **Buprigesic Patch 10** => Continue till Nov 18th. Pause from putting any more patches for Dr. Pathak's direction after that.

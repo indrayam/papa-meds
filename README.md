@@ -15,7 +15,7 @@ Dec 18, 2025 (7:35 am CST)
 2. **Prolomet XL 50** => 1 tablet after breakfast
 3. **Sacurise 100** => 1 after breakfast, 1 after dinner
 4. **DYtor 5** => 1 tab after breakfast
-5. **Aldactone 25mg** => 1 tablet after lunch
+5. **Aldactone 25mg** => 1 tablet after breakfast
 
 ### For Anxiety and Sleep
 1. **Etizola 0.25mg** => 1 tablet at bedtime

@@ -2,7 +2,7 @@
 
 **Date of Medication List Update:**
 
-Dec 18, 2025 (7:35 am CST)
+Dec 31, 2025 (8:15 am CST)
 
 **Additional Notes (if any):**
 - March 31st, 2026: Ultrasound of the lower abdomen to check prostate size and bladder condition.
@@ -30,7 +30,7 @@ Dec 18, 2025 (7:35 am CST)
 ### For L4 Compression
 1. **Gemcal-DS** => 1 tablet after dinner
 2. **Pucoxib 2mg** => 1 tablet after dinner if and when he feels pain (only occasionally)
-3. *Calcigen D3* (60000 IU) => Once per week. In the afternoon with milk
+3. *Calcigen D3* (60000 IU) => Once per month. In the afternoon with milk. Monthly Doses only: **Feb 1, 2026**, **Mar 1, 2026**, **Apr 1, 2026**...
 4. *Olmab Injection* => May 2026
 
 ### Eye dryness

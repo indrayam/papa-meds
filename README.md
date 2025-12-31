@@ -14,8 +14,7 @@ Dec 31, 2025 (8:15 am CST)
 1. **Ecospirin AV** => 1 capsule after dinner
 2. **Prolomet XL 50** => 1 tablet after breakfast
 3. **Sacurise 100** => 1 after breakfast, 1 after dinner
-4. **DYtor 5** => 0.5 tab after breakfast
-5. **Aldactone 25mg** => 1 tablet after lunch
+4. **Aldactone 25mg** => 1 tablet after lunch
 
 ### For Anxiety and Sleep
 1. **Etizola 0.25mg** => 1 tablet at bedtime
@@ -43,6 +42,7 @@ Do not include these in Papa's meds going forward.
 ### For Heart & High Blood Pressure
 1. **Carniprime Tablet** => 1 tablet after breakfast
 2. **Pantoprazole 40mg** => 1 tablet after lunch
+3. **DYtor 5** => 0.5 tab after breakfast
 
 
 ### For L4 Collapse Pain

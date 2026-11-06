@@ -1,6 +1,6 @@
 # Papa's Medications
 
-**Date of Medication List Update:**
+**Date of Medication List Update**
 
 Dec 31, 2025 (8:15 am CST)
 
